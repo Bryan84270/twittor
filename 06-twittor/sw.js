@@ -2,7 +2,7 @@
 importScripts('../06-twittor/js/libs/sw-utils.js')
 
 const STATIC_CACHE      = 'static-v2';
-const DINAMIC_CACHE     = 'dinaic-v1';
+const DINAMIC_CACHE     = 'dinaic-v2';
 const INMUTABLE_CACHE   = 'inmutable-v1';
 
 
